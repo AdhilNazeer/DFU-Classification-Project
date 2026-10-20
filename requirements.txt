@@ -1,0 +1,11 @@
+﻿tensorflow==2.15.1
+numpy<2
+pandas
+matplotlib
+scikit-learn
+Pillow
+opencv-python
+streamlit
+reportlab
+ipykernel
+jupyter
